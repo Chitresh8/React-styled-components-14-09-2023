@@ -1,4 +1,4 @@
-# React Styled Components Learning Project
+# React Styled Components Learning Project.
 
 A comprehensive learning project demonstrating various styled-components patterns and techniques in React with Vite.
 
